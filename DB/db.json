@@ -1,0 +1,16 @@
+{
+  "recepies" : [
+{
+"id": 1,
+"title": "Pizza",
+"imageUrl": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcQcHbxCjB7FY6Rttw1VZFdh0gIZmm4MLLjfmD0dhA11saxBKG_D49VVkmlvz3sE71-b",
+"content": "Making pizza is supper fun and easy !!  "
+},
+{
+  "id": 2,
+  "title": "Hambunger",
+  "imageUrl": "https://assets.epicurious.com/photos/57c5c6d9cf9e9ad43de2d96e/master/w_1000,h_684,c_limit/the-ultimate-hamburger.jpg",
+  "content": "Making Burger is supper fun and easy !!  "
+}
+  ]
+}
